@@ -2,7 +2,7 @@
  #### My name is Nick! 
 
  ##### About me
-- 📌 I am a software engineer based in Bristol, UK.
+- 📌 I am a front-end developer and Business student based in Bristol, UK.
 - 💻   [My portfolio](https://nicknik.com)   
 
 

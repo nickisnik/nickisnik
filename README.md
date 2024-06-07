@@ -3,7 +3,6 @@
 
  ##### About me
 - 📌 I am a front-end developer based in Bristol, UK.
-- 💻   [My portfolio](https://nicknik.com)   
 
 
 - ⚙️ I particularly enjoy working with React & Next.JS
